@@ -126,7 +126,7 @@ Documentation
 You can start by reading the official [Brython tutorial](https://brython.info/static_tutorial/en/index.html).
 
 Full documentation is available on the [official site](http://www.brython.info "Brython Homepage").
-You can read the docs in [English](http://brython.info/static_doc/en/intro.html),
+Docs are available in [English](http://brython.info/static_doc/en/intro.html),
 [French](http://brython.info/static_doc/fr/intro.html) and
 [Spanish](http://brython.info/static_doc/es/intro.html).
 
